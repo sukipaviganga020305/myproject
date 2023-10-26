@@ -1,0 +1,18 @@
+.bod1{
+    background: url("1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main{
+    width: 100% ;
+   
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+}
+.button{
+    height:100px;
+    width:100px;
+    margin-top: 25%;
+}
